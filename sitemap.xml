@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ai.dev-set.com/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/pl/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/services/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/services/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/uslugi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/services/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/pl/uslugi/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/services/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/uslugi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/services/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/digital-products/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/digital-products/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/produkty-cyfrowe/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/digital-products/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/pl/produkty-cyfrowe/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/digital-products/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/produkty-cyfrowe/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/digital-products/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/about/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/about/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/o-nas/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/about/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/pl/o-nas/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/about/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/o-nas/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/about/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/contact/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/contact/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/kontakt/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/contact/" />
+  </url>
+  <url>
+    <loc>https://ai.dev-set.com/pl/kontakt/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://ai.dev-set.com/contact/" />
+        <xhtml:link rel="alternate" hreflang="pl" href="https://ai.dev-set.com/pl/kontakt/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://ai.dev-set.com/contact/" />
+  </url>
+</urlset>
